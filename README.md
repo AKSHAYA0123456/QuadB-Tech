@@ -34,7 +34,7 @@ Built With :
   ```
 ### Installation
 
-_Follow these simple steps to get the server up and running 👾🧮🚀✅._
+_Follow these simple steps to get the server up and running 
 
 1. API Used : https://api.wazirx.com/api/v2/tickers
 2. Clone the repo
